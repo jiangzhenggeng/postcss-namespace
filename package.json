@@ -1,5 +1,5 @@
 {
-  "name": "postcss-namespace",
+  "name": "postcss-global-namespace",
   "version": "0.0.1",
   "description": "对css添加命名空间",
   "main": "src/index.js",

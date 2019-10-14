@@ -2,7 +2,7 @@ const postcss = require('postcss');
 
 let rtlt = (str) => (str || '').replace(/\\/g, '/').replace(/\/\//g, '/')
 
-module.exports = postcss.plugin('postcss-namespace', opts => {
+module.exports = postcss.plugin('postcss-global-namespace', opts => {
 
   opts = opts || {};
 

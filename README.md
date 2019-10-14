@@ -4,6 +4,10 @@
 
 ## 使用
 
+```bash
+npm i --dev postcss-global-namespace
+```
+
 ### 例子
 
 ```js
