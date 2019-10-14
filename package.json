@@ -1,13 +1,14 @@
 {
   "name": "postcss-global-namespace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "对css添加命名空间",
   "main": "src/index.js",
   "dependencies": {
+  },
+  "devDependencies": {
     "jest": "^24.9.0",
     "postcss": "^7.0.18"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest"
   },
