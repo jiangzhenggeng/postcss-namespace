@@ -1,0 +1,16 @@
+{
+  "name": "postcss-namespace",
+  "version": "0.0.1",
+  "description": "对css添加命名空间",
+  "main": "src/index.js",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "postcss": "^7.0.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "2992265870@qq.com",
+  "license": "ISC"
+}
